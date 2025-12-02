@@ -1,0 +1,7 @@
+{
+  "name": "CleanLink",
+  "description": "An investor-ready privacy utility that instantly strips invasive tracking parameters from URLs using Regex and Gemini AI.",
+  "requestFramePermissions": [
+    "clipboard-read"
+  ]
+}
